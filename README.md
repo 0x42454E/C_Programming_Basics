@@ -4,8 +4,11 @@
 
 ## Directory Structure:
 src/ — All implementation files for data structures and recursion.
+
 include/ — Header files corresponding to each module.
+
 test/ — Test programs for validating implementations.
+
 makefiles/ — Dedicated makefiles for building individual modules.
 
 ## How to Build

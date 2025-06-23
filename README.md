@@ -1,4 +1,4 @@
-# CodeLab 
+🖥️ # CodeLab 
 
 Practice done during my studies — a dedicated space where I sharpen my programming skills through hands-on practice and diverse coding challenges.
 

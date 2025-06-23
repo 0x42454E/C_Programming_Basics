@@ -16,4 +16,4 @@ All code in this repository has been written manually without the aid of AI tool
 
 ---
 
-Feel free to explore!
+## Feel free to explore!
